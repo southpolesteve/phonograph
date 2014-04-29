@@ -1,0 +1,19 @@
+{
+  "name": "phonograph",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Faulkner",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.1.1",
+    "markdown": "^0.5.0",
+    "request": "^2.34.0",
+    "rsvp": "^3.0.6",
+    "morgan": "^1.0.0",
+    "mime": "^1.2.11"
+  }
+}
